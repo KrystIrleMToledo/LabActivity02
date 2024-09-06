@@ -1,1 +1,2 @@
-# LabActivity02
+- This is a Laboratory Activity on Modules 2 and 3
+- The topics covered are Basic HTML and HTML Tables
